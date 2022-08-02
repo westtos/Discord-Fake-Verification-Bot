@@ -1,4 +1,4 @@
-First once you download the file, make sure you have pythong 3.9+.
+First once you download the file, make sure you have python 3.9+.
 Next step run the install batch file. 
 Next get your bot token that you wanna use (common sense) and then put it in config
 Then simply run the Main.py file
