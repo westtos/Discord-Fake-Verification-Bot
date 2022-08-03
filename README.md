@@ -76,7 +76,6 @@ $ python main.py
 
 ## Additional Informations
 General Informations:
-- If you have a problem, [CLICK HERE](https://youtu.be/B5xxURQtd3A) to watch the YouTube video.
 - If you find any malfunction, contact me on Discord: SenT#0417.
 
 
